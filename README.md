@@ -1,3 +1,7 @@
+*I just started on Nov. 24 with the EDA, it is not yet very structured and comments are missing still.*
+___
+
+
 # Kaggle Competition: [HR Analytics: Job Change of Data Scientists](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists)
 
 ___
