@@ -1,2 +1,18 @@
-# HR-Analytics
-The goal of this repository is to develop a machine learning model to predict whether a candidate is looking for a job change or not.
+# Kaggle Competition: [HR Analytics: Job Change of Data Scientists](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists)
+
+___
+
+A company which is active in Big Data and Data Science wants to hire data scientists among people who have successfully passed some courses conducted by the company. Many people signed up for the training. The company now wants to know which of these candidates is actually open to work for them (= change their job) after the training.
+
+___
+
+## Setup of virtual environment
+
+```
+pyenv local 3.9.8
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
