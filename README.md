@@ -1,4 +1,4 @@
-*I just started on Nov. 24 with the EDA, it is not yet very structured and comments are missing still.*
+*I just started on Nov. 24, it is not yet very structured and comments are missing still.*
 ___
 
 
